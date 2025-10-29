@@ -1,3 +1,4 @@
+import { ThemeToggle } from '@/components/mode-toggle'
 import { createFileRoute } from '@tanstack/react-router'
 import {
   Zap,
@@ -92,6 +93,7 @@ function App() {
               </code>
             </p>
           </div>
+          <ThemeToggle />
         </div>
       </section>
 
