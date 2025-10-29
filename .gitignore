@@ -11,5 +11,6 @@ count.txt
 .output
 .vinxi
 .vscode
+package-lock.json
 todos.json
 src/routeTree.gen.ts
